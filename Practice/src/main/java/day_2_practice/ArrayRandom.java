@@ -71,7 +71,7 @@ public class ArrayRandom {
 		int[] randomArr = new int[input];
 		Random randNumber = new Random();
 		int result;
-		int sum = 0;
+		double sum = 0;
 		double avg = 0;
 		File myObj = new File("D:/ArrayData.txt");
 
